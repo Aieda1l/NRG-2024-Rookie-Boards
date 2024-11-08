@@ -1,0 +1,32 @@
+{
+  "HALProvider": {
+    "Addressable LEDs": {
+      "0": {
+        "columns": 1
+      },
+      "window": {
+        "visible": true
+      }
+    },
+    "DIO": {
+      "window": {
+        "visible": true
+      }
+    },
+    "Other Devices": {
+      "SPARK MAX [1]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo"
+    }
+  },
+  "NetworkTables View": {
+    "visible": false
+  }
+}
